@@ -1,0 +1,6 @@
+# Nmap 7.95 scan initiated Wed Jun 11 16:49:37 2025 as: /usr/lib/nmap/nmap --privileged -sT -p 1433 -oG MSSQLscan 192.168.1.0/24
+Host: 192.168.1.1 ()	Status: Up
+Host: 192.168.1.1 ()	Ports: 1433/closed/tcp//ms-sql-s///
+Host: 192.168.1.112 (kali.lan)	Status: Up
+Host: 192.168.1.112 (kali.lan)	Ports: 1433/closed/tcp//ms-sql-s///
+# Nmap done at Wed Jun 11 16:49:48 2025 -- 256 IP addresses (2 hosts up) scanned in 10.88 seconds
